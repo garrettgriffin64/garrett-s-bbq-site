@@ -1,0 +1,33 @@
+body { 
+    font-family: Arial, sans-serif; 
+    background: #111; 
+    color: #eee; 
+    margin: 0;
+    padding: 20px; 
+}
+
+header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #e0b973;
+    margin: 0;
+}
+
+a {
+    color: #e0b973;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    line-height: 1.8;
+}
